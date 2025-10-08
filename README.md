@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF" width="100%">
+  <img src="https://media.giphy.com/media/l0IXAIMc0l9UjUeDm/giphy.gif" alt="Minimalist ASCII Art Coding" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Jainam Bohara!</h1>
