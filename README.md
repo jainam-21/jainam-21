@@ -72,8 +72,8 @@ Click here to view my updated resume: [**Click to View My Resume**]([FILL IN LIN
 ## 📫 Let's Connect!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jainam-bohara/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:jainambohara99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/jainam-bohara/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jainambohara99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 <p align="center">
   📞 Phone: +91 9166866841
