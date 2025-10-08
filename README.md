@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IXAIMc0l9UjUeDm/giphy.gif" alt="Minimalist ASCII Art Coding" width="100%">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif" alt="Terminal Animation" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Jainam Bohara!</h1>
