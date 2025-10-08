@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif" alt="Terminal Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/jainam-21/jainam-21/main/girl-11765_256.gif" alt="Animated Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Jainam Bohara!</h1>
