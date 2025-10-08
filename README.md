@@ -1,38 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelJem/MicaelJem/master/Assets/Header.gif" alt="Animated Header" width="100%">
+  <img src="https://media.giphy.com/media/f3pw4pS6e1K2A/giphy.gif" alt="Coding GIF" width="100%">
 </p>
 
-👋 Hello World, I'm Jainam Bohara!
-
-🚀 **Aspiring Power Systems Engineer** | 💡 **AI/ML Enthusiast** | 📍 **From Ahmedabad, India**
+<h1 align="center">👋 Hello, I'm Jainam Bohara!</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x150/007ACC/FFFFFF?text=Jainam+Bohara's+Portfolio" alt="A custom banner" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Power+Systems+Engineer;AI%2FML+Enthusiast;Always+Learning+and+Building" alt="Animated Typing SVG" />
+  </a>
 </p>
-
-✨ Applying Software to Solve Complex Engineering Problems ✨
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Electrical Engineering student @ **Nirma University**
-- ⚡ Passionate about Power System Analysis, Control Systems, and Power Electronics.
+- 🎓 B.Tech **Electrical Engineering** student @ **Nirma University**.
+- ⚡ Passionate about Power System Analysis, Control Systems, and modern Power Electronics.
 - 🧠 Applying **Artificial Intelligence** and **Machine Learning** to forecast energy demands and optimize grid performance.
-- 💻 Building practical simulations and tools with Python, MATLAB, and JavaScript.
+- 💻 Building practical simulations and tools with **Python**, **MATLAB**, and **JavaScript**.
 - 💡 Actively seeking opportunities in the core electrical and power electronics sector.
 
 ---
 
-### ⚔️ Competitive Programming
-
-- **LeetCode:** [Profile Link]([FILL IN YOUR LEETCODE PROFILE LINK]) | 🌟 **Rating: [Your Rating]**
-- **Codeforces:** [Profile Link]([FILL IN YOUR CODEFORCES PROFILE LINK]) | 🧡 **Max Rating: [Your Max Rating]**
-- **CodeChef:** [Profile Link]([FILL IN YOUR CODECHEF PROFILE LINK]) | 🔥 **[Your Stars] Star Coder**
-
----
-
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 #### Languages & Core Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -51,37 +41,40 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainam-21&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Jainam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-21&layout=compact&theme=nord&hide_border=true" alt="Jainam's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jainam-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jainam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-21&layout=compact&theme=tokyonight&hide_border=true" alt="Jainam's Most Used Languages" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
-
-These are the repositories you should "pin" on your profile.
+## 📌 Pinned Projects
 
 - **[Gauss-Seidel-Power-Flow-Simulation](https://github.com/jainam-21/Gauss-Seidel-Power-Flow-Simulation)** (MATLAB)
-  > An educational tool for simulating power flow in electrical networks using the Gauss-Seidel method. Input bus and line data, simulate iteratively, visualize bus voltage magnitudes and angles.
+  > An educational tool for simulating power flow in electrical networks using the Gauss-Seidel method. Input bus and line data, simulate iteratively, and visualize bus voltages.
 
 - **[AI-Model-for-Load-Forecasting](https://github.com/jainam-21/AI-Model-for-Load-Forecasting)** (Python, TensorFlow)
   > A machine learning model to forecast energy demand by integrating real-time weather data analysis. Implemented using Python (TensorFlow, Scikit-learn) for model training and evaluation.
 
 - **[BankersAlgorithm-Simulator](https://github.com/jainam-21/BankersAlgorithm-Simulator)** (JavaScript)
-  > A user-friendly tool for simulating the Banker's Algorithm. Input resources and processes, simulate step-by-step, visualize states, and understand resource allocation and deadlock avoidance.
+  > A user-friendly tool for simulating the Banker's Algorithm to understand resource allocation and deadlock avoidance in operating systems.
 
 ---
 
-### 📄 My Resume
+## 📄 My Resume
 
-Click here to view my updated resume: [Click to View My Resume]([FILL IN LINK TO YOUR RESUME PDF])
+Click here to view my updated resume: [**Click to View My Resume**]([FILL IN LINK TO YOUR RESUME PDF])
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([FILL IN YOUR LINKEDIN PROFILE LINK])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[FILL IN YOUR EMAIL ADDRESS])
+<p align="center">
+<a href="https://www.linkedin.com/in/jainam-bohara/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jainambohara99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+<p align="center">
+  📞 Phone: +91 9166866841
+</p>
