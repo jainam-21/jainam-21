@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/f3pw4pS6e1K2A/giphy.gif" alt="Coding GIF" width="100%">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Jainam Bohara!</h1>
